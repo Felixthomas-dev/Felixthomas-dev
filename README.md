@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently Studying at **University of salford (MSc)**
 
-- 🌱 I’m currently learning **Advanced Database, Big data tool and techniques**
+- 🌱 I’m currently learning **Advanced Database and Database Management, Big data tool and techniques**
 
-- 💬 Ask me about **Machine Learning, python, AzureML, powerBi**
+- 💬 Ask me about **Machine Learning,Data Mining, Tableau, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
 
 - 📫 How to reach me **thomasfelix007@gmail.com**
 
