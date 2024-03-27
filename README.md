@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Database and Database Management, Big data tool and techniques**
 
-- 💬 Ask me about **Machine Learning,Data Mining, Tableau, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
+- 💬 Ask me about **Machine Learning,Data Mining, Tableau, SQL, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
 
 - 📫 How to reach me **thomasfelix007@gmail.com**
 
