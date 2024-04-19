@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently Studying at **University of salford (MSc)**
 
-- 🌱 I’m currently Working on **Hospital Database Management, Recommendation system with Collaborative filtering and pridictive model, Insight into Clinical Trials 2023 using Advance Statistical Analysis**
+- 🌱 I’m currently Working on **Database Design and Management, Recommendation system with Collaborative filtering, Insight into Clinical Trials 2023 using Advance Analysis**
 
-- 💬 Ask me about **Machine Learning,Data Mining,Advanced Database and Database Management, Big data tool and techniques, Tableau, SQL, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
+- 💬 Ask me about **Machine Learning,Data Mining,Advanced Database and Database Management, Big data tool and techniques, Natural Language Processing, Tableau, SQL, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
 
 - 📫 How to reach me **thomasfelix007@gmail.com**
 
